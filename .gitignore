@@ -1,0 +1,13 @@
+data/*
+!data/README.md
+!data/example.csv
+.env
+*api_key*
+*.pem
+*.pt
+*.bin
+*.safetensors
+results/checkpoint*/
+logs/
+__pycache__/
+.ipynb_checkpoints/

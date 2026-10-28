@@ -1,0 +1,26 @@
+[
+  {
+    "public_file": "notebooks/personal/02_multilabel_keunwoo.ipynb",
+    "original_filename": "Step2_속성_검출(Multi_label)_분류_김건우.ipynb",
+    "original_sha256": "7af5a73ac1427ab798ca2dab6dd563a516b3d0146acad7317619adf7f8c492eb",
+    "scope": "personal"
+  },
+  {
+    "public_file": "notebooks/team/01_review_sentiment.ipynb",
+    "original_filename": "Step1. 상품 리뷰 감성 분류.ipynb",
+    "original_sha256": "bfc13859b0f86217d8c0b5fd899f03b3a4aec976e9b2bb020b56d510d7f53e6e",
+    "scope": "team"
+  },
+  {
+    "public_file": "notebooks/team/02_aspect_detection.ipynb",
+    "original_filename": "Step2. 속성 검출(Multi-label) 분류.ipynb",
+    "original_sha256": "343e6d5b4f6cd9d0fdba994028a1e7c8d6c20861d33af773e822741273d63858",
+    "scope": "team"
+  },
+  {
+    "public_file": "notebooks/team/03_aspect_sentiment.ipynb",
+    "original_filename": "Step3_속성 기반 감정 분류.ipynb",
+    "original_sha256": "29a4d0da42f6b81010f5917aedada3fe460a983691800eddc3be8120e893e4ad",
+    "scope": "team"
+  }
+]

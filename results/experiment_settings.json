@@ -1,0 +1,27 @@
+{
+  "source": "personal notebook stored outputs",
+  "labels": 11,
+  "sample_reviews": 3000,
+  "train_reviews": 2100,
+  "validation_reviews": 900,
+  "split_random_state": 100,
+  "runs": {
+    "fine_tuning": {
+      "learning_rate": 2e-08,
+      "epochs": 5,
+      "batch_size": 32,
+      "train_runtime_seconds": 911.5279,
+      "stored_eval_macro_f1": 0.21434115343820243
+    },
+    "lora": {
+      "learning_rate": 0.0002,
+      "epochs": 5,
+      "batch_size": 32,
+      "r": 8,
+      "alpha": 32,
+      "dropout": 0.1,
+      "train_runtime_seconds": 531.4986
+    }
+  },
+  "measurement": "Historical notebook outputs; not rerun during repository preparation."
+}
